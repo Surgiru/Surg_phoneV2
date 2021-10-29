@@ -1,16 +1,17 @@
 **#############################################################################**
-[FR]
 
-**Le Surg_phone V2 est un gcphone entierement modif**
+***[FR]***
 
-[EN]
+***Le Surg_phone V2 est un gcphone entierement modif***
 
-**The Surg_phone V2 is an gcphone fully modificaded**
+***[EN]***
+
+***The Surg_phone V2 is an gcphone fully modificaded***
 
 **--------------Server.cfg-------------**
 
-N'oubliez pas !
-Don't forget !
+**-N'oubliez pas !**
+**-Don't forget !**
 
 ```ensure Surg_phone ```
 
