@@ -42,10 +42,10 @@
 
 ***Phone/Téléphone*** :
 
-```/setitem ID tel 1```
+```/giveitem ID tel 1```
 
 ***Carte Sim / Sim Card*** : 
 
-```/setitem ID sim 1```
+```/giveitem ID sim 1```
 
 **#############################################################################**
